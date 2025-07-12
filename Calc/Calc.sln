@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc", "Calc\Calc.csproj", "{5ECEF025-8DF3-48EE-B0EF-4364EDC57F4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc.Lib", "Calc.Lib\Calc.Lib.csproj", "{89A544E2-849E-4DDA-B758-D0F59EB83F78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc.Test", "Calc.Test\Calc.Test.csproj", "{23707F16-43B8-4240-9002-0DFC24F66D3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ECEF025-8DF3-48EE-B0EF-4364EDC57F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECEF025-8DF3-48EE-B0EF-4364EDC57F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECEF025-8DF3-48EE-B0EF-4364EDC57F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECEF025-8DF3-48EE-B0EF-4364EDC57F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A544E2-849E-4DDA-B758-D0F59EB83F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A544E2-849E-4DDA-B758-D0F59EB83F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A544E2-849E-4DDA-B758-D0F59EB83F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A544E2-849E-4DDA-B758-D0F59EB83F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23707F16-43B8-4240-9002-0DFC24F66D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23707F16-43B8-4240-9002-0DFC24F66D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23707F16-43B8-4240-9002-0DFC24F66D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23707F16-43B8-4240-9002-0DFC24F66D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED497E62-8199-4B74-84A7-DBE27F65CBFE}
+	EndGlobalSection
+EndGlobal
